@@ -25,7 +25,6 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    CV pdf: https://drive.google.com/file/d/1yk22A_Atv9WjbSnZyMWNd__kBIV-xCED/view?usp=sharing
 
     languages:
       - idiom: Spanish
@@ -50,6 +49,7 @@ career-profile:
       Much of my work has been focused in the spectroscopic study and 
       characterization of T-Tauri stars using astrometric and mid-infrared 
       photometric data.
+      Curriculum Vitae in PDF <a href="https://drive.google.com/file/d/1yk22A_Atv9WjbSnZyMWNd__kBIV-xCED/view?usp=sharing">CV</a>
 education:
     - degree: BSc in Physics
       university: Universidad Autónoma de Baja California
